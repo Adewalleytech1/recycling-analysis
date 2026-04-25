@@ -1,0 +1,61 @@
+date,area,waste_type,quantity_kg,price_per_kg,total_revenue
+1/5/2024,Ikeja,Plastic,120,150,18000
+1/6/2024,Abule Egba,Scrap Tyres,80,300,24000
+1/7/2024,Surulere,Paper,60,100,6000
+1/8/2024,Lekki,Metal,50,120,6000
+1/9/2024,Ajah,Organic,200,50,10000
+1/10/2024,Mushin,Scrap Tyres,90,200,18000
+1/12/2024,Agege,Plastic,140,150,21000
+1/14/2024,Ikorodu,Scrap Tyres,70,300,21000
+1/15/2024,Oshodi,Paper,55,100,5500
+1/17/2024,Lagos Island,Metal,65,120,7800
+1/20/2024,Ikeja,Scrap Tyres,100,200,20000
+1/22/2024,Abule Egba,Plastic,130,150,19500
+1/25/2024,Surulere,Scrap Tyres,90,300,27000
+1/27/2024,Lekki,Paper,75,100,7500
+1/30/2024,Ajah,Scrap Tyres,110,200,22000
+2/2/2024,Mushin,Plastic,160,150,24000
+2/5/2024,Agege,Scrap Tyres,85,300,25500
+2/7/2024,Ikorodu,Metal,70,120,8400
+1/0/1900,Oshodi,Scrap Tyres,95,200,19000
+2/12/2024,Lagos Island,Plastic,150,150,22500
+1/5/2024,Ikeja,Plastic,120,150,18000
+1/6/2024,Abule Egba,Metal,80,300,24000
+1/7/2024,Surulere,Paper,60,100,6000
+1/8/2024,Lekki,Metal,50,120,6000
+1/9/2024,Ajah,Organic,200,50,10000
+1/10/2024,Mushin,Scrap Tyres,90,200,18000
+1/12/2024,Agege,Plastic,140,150,21000
+1/14/2024,Ikorodu,Scrap Tyres,70,300,21000
+1/15/2024,Oshodi,Paper,55,100,5500
+1/17/2024,Lagos Island,Metal,65,120,7800
+1/20/2024,Ikeja,Scrap Tyres,100,200,20000
+1/22/2024,Abule Egba,Plastic,130,150,19500
+1/25/2024,Surulere,Scrap Tyres,90,300,27000
+1/27/2024,Lekki,Paper,75,100,7500
+1/30/2024,Ajah,Scrap Tyres,110,200,22000
+2/2/2024,Mushin,Plastic,160,150,24000
+2/5/2024,Agege,Scrap Tyres,85,300,25500
+2/7/2024,Ikorodu,Metal,70,120,8400
+2/10/2024,Oshodi,Scrap Tyres,95,200,19000
+2/12/2024,Lagos Island,Plastic,150,150,22500
+1/5/2024,Ikeja,Plastic,120,150,18000
+1/6/2024,Abule Egba,Scrap Tyres,80,300,24000
+1/7/2024,Surulere,Paper,60,100,6000
+1/8/2024,Lekki,Metal,50,120,6000
+1/9/2024,Ajah,Organic,200,50,10000
+1/10/2024,Mushin,Scrap Tyres,90,200,18000
+1/12/2024,Agege,Plastic,140,150,21000
+1/14/2024,Ikorodu,Scrap Tyres,70,300,21000
+1/15/2024,Oshodi,Paper,55,100,5500
+1/17/2024,Lagos Island,Metal,65,120,7800
+1/20/2024,Ikeja,Scrap Tyres,100,200,20000
+1/22/2024,Abule Egba,Plastic,130,150,19500
+1/25/2024,Surulere,Scrap Tyres,90,300,27000
+1/27/2024,Lekki,Paper,75,100,7500
+1/30/2024,Ajah,Scrap Tyres,110,200,22000
+2/2/2024,Mushin,Plastic,160,150,24000
+2/5/2024,Agege,Scrap Tyres,85,300,25500
+2/7/2024,Ikorodu,Metal,70,120,8400
+2/10/2024,Oshodi,Scrap Tyres,95,200,19000
+2/12/2024,Lagos Island,Plastic,150,150,22500
